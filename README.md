@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tirawat (Owen)
 
-I'm a passionate software developer based in Brisbane, Australia 🇦🇺, with a keen interest in building full-stack applications that solve real-world problems. I enjoy working with modern technologies and continuously learning to improve my craft.
+I'm a passionate software developer with a keen interest in building full-stack applications that solve real-world problems. I enjoy working with modern technologies and continuously learning to improve my craft.
 
 ## 🛠️ Tech Stack
 
