@@ -15,6 +15,6 @@ I'm a passionate software developer with a keen interest in building full-stack 
 
 - Email: [owentirawat@gmail.com](mailto:owentirawat@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/tirawat-p](https://www.linkedin.com/in/tirawat-p)
-- Portfolio: [https://tirawat-portfolio.vercel.app/](https://tirawat-portfolio.vercel.app/)
+- Portfolio: [https://tirawat.vercel.app/](https://tirawat.vercel.app/)
 
 Feel free to check out my repositories and reach out if you'd like to collaborate!
